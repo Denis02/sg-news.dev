@@ -1,0 +1,11 @@
+{
+    "require": {
+        "simplepie/simplepie": "^1.4",
+        "monolog/monolog": "^1.22",
+        "symfony/http-foundation": "^3.2",
+        "symfony/routing": "^3.2"
+    },
+    "autoload": {
+        "psr-4": { "": "app/" }
+    }
+}
